@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" alt="Banner" />
-</p>
-
-<p align="center">
   I enjoy solving problems and building practical software
   applications using Java, web technologies, and AI.
 </p>
